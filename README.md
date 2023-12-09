@@ -21,4 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dataweb&icon=3&color=12)](https://visitcount.itsvg.in)
 
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23101%26project%3D%26in%3D0)](https://codetime.dev)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
